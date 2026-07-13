@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SpringLearnApplication",
+            "request": "launch",
+            "mainClass": "com.cognizant.springlearn.SpringLearnApplication",
+            "projectName": "spring-learn"
+        }
+    ]
+}
